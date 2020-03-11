@@ -1,0 +1,7 @@
+wp-config.php
+wp/
+vendor/
+content/*
+!content/themes
+content/themes/*
+!content/themes/monsupertheme
